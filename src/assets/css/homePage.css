@@ -1,0 +1,129 @@
+.home-page-main{
+  background-color: white;
+    width:100%;
+    height:100%!important;
+    padding-bottom: 5% !important;
+    margin-bottom: 30px;
+    
+}
+div{
+    background-color: #fff;
+}
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide-effect span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+  .slide1{
+    align-items: center;
+    width:100%
+  }
+  div h3{
+    text-align:center;
+    font-size: 30px;
+    font-weight: 620;
+    margin-top:20px;
+    padding-bottom: 20px;
+    margin-bottom: 5px !important;
+    font-style:calc();
+  }
+  div h3 span{
+    font-weight: 800;
+    color:#1f2d6b;
+  }
+  .btm-bdr{
+    align-items: center !important;
+    margin-left: 25rem;
+
+  }
+  .pr-hm{
+    
+    width:90%;
+    margin-left:7rem;
+    text-align: start;
+    padding-bottom: 14px;
+  }
+  h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  h1 span{
+    font-weight: 800;
+    color:#1f2d6b;
+
+  }
+  .abt-hom{
+   margin-top:8vh !important;
+   padding-left:30px !important;
+   padding-bottom: 10px;
+    align-items: center !important;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .vsn-hm{
+    padding-left:30px !important;
+    align-items: center !important;
+    padding-bottom: 10px;;
+    font-size: 20px;
+    font-weight: 600;
+    
+
+  }
+  .msn-hm{
+    padding-left:30px !important;
+    align-items: center !important;
+    padding-bottom: 10px;;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .abt-hom:hover{
+    color:#fff;
+    background-color: #66CC00;
+  }
+  .abt-hom div:hover{
+    color:#66CC00;
+    background-color: #66CC00;
+
+  }
+  .vsn-hm:hover{
+    color:#66CC00;
+    background-color: #66CC00;
+  }
+  .msn-hm:hover{
+    color:#66CC00;
+    background-color: #66CC00;
+  }
+  .homeimg7:hover{
+    color: #66CC00 !important;
+  }
+  .homeimg8:hover{
+    color: #66CC00 !important;
+  }
+  .homeimg9:hover{
+    color: #66CC00 !important;
+  }
+  .mid-hm-cnt{
+    align-items: center !important;
+  }
+  .grid-abt-cont{
+    align-items: center !important;
+    background-color: #f1f1f7;
+    
+    margin-left:"10px";
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    
+  }

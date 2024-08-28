@@ -1,0 +1,37 @@
+.img-hvr{
+    object-fit: cover;
+  transition: transform 0.5s ease, filter 0.5s ease;
+}
+.img-hvr:hover{
+    transform: scale(1.1); 
+  filter: brightness(80%);
+}
+div h5{
+    text-align:left;
+    margin-left:40px;
+   
+}
+.slide-p{
+    text-align:left;
+    margin-left:40px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-weight:500
+}
+.read-more-btn{
+   margin-left:70%;
+   background-color: rgb(156, 218, 64);
+   color: #fff;
+   border:none;
+   padding:5px;
+   margin-bottom: -20px;
+   font-size: 10px;;
+}
+div h1{
+    text-align:left;
+    font-size: 30px;
+    font-weight: 500;
+    font-style: normal;
+    margin-left:5%;
+    color: rgb(156, 218, 64);
+}

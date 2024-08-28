@@ -1,0 +1,149 @@
+
+/* .container {
+    background-color: white;
+    display: flex; 
+    justify-content: space-between; 
+    padding: 1rem;
+    border-bottom: 2px solid whitesmoke;
+  } */
+  
+  
+  /* .left-content, .right-content {
+   
+    background-color: white;
+    font-size: 12px;;
+     border-bottom: 2px solid whitesmoke; 
+  }  */
+  .grid-container-header{
+    background-color:white;
+    border-radius: 0;
+    border: none;
+    background-color: transparent;
+    
+  }
+    .box-header{
+        /* background-color: white !important; */
+        /* width: 80%;
+      height: 14vh;
+     position: fixed !important;
+     z-index: 100; */
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 20px; 
+        /* margin-bottom: 20vh !important; */
+        
+       
+        
+    }
+  
+  .left-content {
+    text-align: left;
+    border-radius: 0;
+    border-bottom: 3px solid whitesmoke !important;
+    margin-bottom: 10px !important;
+   background-color: transparent;
+  
+
+    
+  }
+  
+  
+  .right-content {
+    text-align: right;
+    background-color: transparent;
+    border-bottom: 3px solid whitesmoke !important;
+    margin-bottom: 10px !important;
+  }
+  .grid-item1{
+    padding:10px;
+   
+  }
+  .grid-item2{
+    text-align: end;
+    flex-direction: row;
+   
+  }
+
+.grid-item4{
+    text-align: right;
+    display: flex !important;
+    flex-direction: column !important;
+    margin-top:20px !important;
+}
+
+.navbar{
+    
+}
+.nav-container{
+   
+}
+.home-nav{
+    text-decoration: none;
+    color:black;
+    background-color: #fff;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    padding:10px;
+
+    margin-left:20px;
+}
+.about-nav{
+    text-decoration: none;
+    color:black;
+    background-color: #fff;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    padding:10px;
+
+    margin-left:20px;
+
+}
+.product-nav{
+    text-decoration: none;
+    color:black;
+    background-color: #fff;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    padding:10px;
+   
+    margin-left:20px;
+
+}
+.corporate-nav{
+    text-decoration: none;
+    color:black;
+    background-color: #fff;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    padding:10px;
+   
+    margin-left:20px;
+    
+}
+.quality-nav{
+    text-decoration: none;
+    color:black;
+    background-color: #fff;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    padding:10px;
+   
+    margin-left:20px;
+}
+.contact-nav{
+    text-decoration: none;
+    color:black;
+    background-color: #fff;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    padding:10px;
+  
+    margin-left:20px;
+}
+.nv:hover{
+    color: #fff;;
+    background-color: #66CC00;
+}
+  
+
+ 
